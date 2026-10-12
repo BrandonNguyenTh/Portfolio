@@ -48,6 +48,11 @@ h1 em, h2 em { color: var(--teal); font-family: Georgia, serif; font-style: ital
 .text-link span { font-size: 1rem; margin-left: 8px; }
 .hero-visual { background: radial-gradient(circle at top left, rgba(233, 189, 87, .18), transparent 40%), linear-gradient(135deg, #dfeee6 0%, #edf6f4 100%); min-height: 520px; overflow: hidden; position: relative; box-shadow: inset 0 0 0 1px rgba(18, 63, 61, .06); }
 .hero-visual:before { border: 1px solid rgba(18, 63, 61, .17); border-radius: 50%; content: ''; height: 74%; left: 13%; position: absolute; top: 13%; width: 74%; }
+.hero-face-card { align-items: center; background: rgba(18,63,61,.08); border: 1px solid rgba(18,63,61,.12); display: flex; gap: 14px; left: 8%; padding: 12px 14px 12px 12px; position: absolute; top: 16%; width: min(240px, 58%); z-index: 5; }
+.hero-face-card img { border-radius: 50%; height: 72px; object-fit: cover; width: 72px; }
+.hero-face-card-copy { display: flex; flex-direction: column; }
+.hero-face-card-copy span { color: var(--ink); font: .58rem var(--mono); letter-spacing: .12em; text-transform: uppercase; }
+.hero-face-card-copy strong { font-size: 1.3rem; letter-spacing: -.06em; }
 .visual-label { line-height: 1.6; position: absolute; z-index: 3; }
 .visual-label span { color: var(--teal); }
 .label-top { left: 7%; top: 7%; }
