@@ -1,3 +1,3 @@
 # Brandon Nguyen Portfolio
 
-[Visit my portfolio](https://brandonnguyenth.github.io/Portfolio/)
+[Updated portfolio website](https://brandonnguyenth.github.io/Portfolio/)
