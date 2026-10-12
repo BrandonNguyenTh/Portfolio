@@ -53,6 +53,8 @@ h1 em, h2 em { color: var(--teal); font-family: Georgia, serif; font-style: ital
 .hero-face-card-copy { display: flex; flex-direction: column; }
 .hero-face-card-copy span { color: var(--ink); font: .58rem var(--mono); letter-spacing: .12em; text-transform: uppercase; }
 .hero-face-card-copy strong { font-size: 1.3rem; letter-spacing: -.06em; }
+.hero-tags { bottom: 16%; display: flex; flex-wrap: wrap; gap: 10px; left: 8%; max-width: 260px; position: absolute; z-index: 5; }
+.hero-tags span { background: rgba(247,245,237,.8); border: 1px solid rgba(16,43,43,.14); color: var(--ink); font: .56rem var(--mono); letter-spacing: .12em; padding: 8px 10px; text-transform: uppercase; }
 .visual-label { line-height: 1.6; position: absolute; z-index: 3; }
 .visual-label span { color: var(--teal); }
 .label-top { left: 7%; top: 7%; }
