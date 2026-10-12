@@ -1,3 +1,3 @@
 # Brandon Nguyen Portfolio
 
-https://brandonnguyenth.github.io/Portfolio/
+[Visit my portfolio](https://brandonnguyenth.github.io/Portfolio/)
